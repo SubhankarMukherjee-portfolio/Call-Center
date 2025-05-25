@@ -2,7 +2,7 @@
 This Power BI project analyzes call center performance data from January to March 2021 to deliver interactive dashboards for operational and customer service insights. It integrates data segmented by month, agent, resolution status, and call outcome. The dashboards showcase key performance indicators such as average speed of answer, call resolution rate, agent satisfaction scores, and monthly call volumes. Visualizations include bar charts, pie charts, performance quadrants, and time-series breakdowns for in-depth analysis. The solution empowers stakeholders to monitor efficiency, evaluate agent performance, and enhance customer support operations through data-driven decision-making.
 
 ## Dataset used
-Dataset = ""
+Dataset = "https://github.com/SubhankarMukherjee-portfolio/Call-Center/blob/main/Call-Center-Dataset.xlsx"
 
 ## Objectives of the project
 1) To track and visualize call center performance using KPIs such as average speed of answer, call resolution rate, and customer satisfaction scores.
@@ -25,10 +25,10 @@ Dataset = ""
 
 
 ## Power BI file
-Power BI File = ""
+Power BI File = "https://github.com/SubhankarMukherjee-portfolio/Call-Center/blob/main/Call-Center.pbix"
 
 ## PDF file of Dashboard
-PDF File = ""
+PDF File = "https://github.com/SubhankarMukherjee-portfolio/Call-Center/blob/main/Call-Center.pdf"
 
 ![image](https://github.com/user-attachments/assets/77f5b32b-95f7-4d2f-aaf3-22605f26d6ca)
 
